@@ -10,11 +10,13 @@
     {
       "email": "robin@email.com",
       "password": "$2a$10$q9757EUI3h7sWrGS7edVteUdJIgH1QymqNbHTqpvC/57bMIf8SO9G",
+      "name": "Robin",
       "id": 2
     },
     {
       "email": "batman@email.com",
       "password": "$2a$10$tcaIh0Hn0Lz//TUZZSxRaeQc7fSwRNKRbDM.7ZAOckVBZ7M9n.22O",
+      "name": "Batman",
       "id": 3
     }
   ],
